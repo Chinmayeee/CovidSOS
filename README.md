@@ -1,4 +1,5 @@
 # CovidSOS SYSTEM
+
 1) COVID FILE CONTAINS CLIENT SIDE UI.
 2) COVID HOS FILE CONTAINS HOSPITAL PORTAL.
 
@@ -9,7 +10,6 @@ REQUIREMENTS:
   2)WEB BROWSER.
   
 Dump the sql file on mysql server and Run the system using localhost/covid and localhost/covid_hos.
-
 
 STEPS:
 1)USER NEEDS TO BE REGISTERED WHILE EMERGENCY FROM CLIENT PORTAL.
